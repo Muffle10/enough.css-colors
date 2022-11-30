@@ -1,13 +1,14 @@
 * {
-  --r:red
-  --g:green
-  --b:blue
-  --lr:#FF5555
-  --dr:#A40101
-  --lb:#4AD3FF
-  --db:#00328E
-  --lg:#96FF79
-  --dg:#00710C
-  --pr:#CA32FF
-  --pk:#FF90D3
+  --r:#F00;
+  --g:#0F0;
+  --b:#00F;
+  --y:#ff0;
+  --lr:#FF5555;
+  --dr:#A40101;
+  --lb:#4AD3FF;
+  --db:#00328E;
+  --lg:#96FF79;
+  --dg:#00710C;
+  --pr:#CA32FF;
+  --pk:#FF90D3;
 }
